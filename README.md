@@ -25,3 +25,9 @@ respostas uns aos outros a partir do momento em que a conexão se estabelece, e 
 ## Conclusão 
 
 Esse é o resumo sobre alguns dos conteúdos vistos, texto escrito 100% por um humano e tem como total intuito de revisar e reforçar o meu entendimento sobre comunicação em tempo real e alguns conceitos. E caso tenha ajudado alguém nos seus estudos, ótimo, fico feliz em ajudar! Qualquer dúvida ou dica envie seu PR.
+
+    Como referência eu deixo o artigo escrito por David Mosya no blog 'Medium'
+    
+[Medium, David Mosya](https://medium.com/@dmosyan/http-long-polling-vs-websockets-dadab8f7f26f)
+
+https://medium.com/@dmosyan/http-long-polling-vs-websockets-dadab8f7f26f
