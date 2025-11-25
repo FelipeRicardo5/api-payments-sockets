@@ -9,7 +9,7 @@ Long Polling, diferente do HTTP e Websockets que são protocolos de comunicaçã
 Como um desenvolvedor conhecido disse uma vez, protocolos na engenharia de software sempre será compreendido como "conjunto de regras", 
 ou seja, HTTP não deixa de ser um conjunto de regras para a comunicação entre Cliente e Servidor.
 
-Retomando, Long Polling diferente do Websocket quando nosso cliente faz uma requisição e nosso servidor mantém a conexão aberta caso não exista novos dados para enviar,
+Retomando, Long Polling diferente do Websocket quando nosso cliente faz uma requisição e nosso servidor mantém a conexão aberta caso não exista novos dados para enviar ou seja, caso algum evento não ocorra,
 mas quando houver retorna a resposta, após isso a conexão entre eles é "fechada", sim, muito parecido com HTTP por isso o Long Polling é frequentemente chamado de ‘HTTP emulando tempo real’.
 
 ![0_LGDmwIjFueG1nX3U](https://github.com/user-attachments/assets/2cd9db8d-7ff3-4a77-a2d8-d0136e8fcb3f)
